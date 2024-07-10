@@ -19,4 +19,4 @@ NURKHOLIK SAPRUDIN :312210507
 
  # Tautan proyek pengkodean yang kami buat
  
-  https://idx.google.com/flutter-food-app-6865954
+https://idx.google.com/flutter-food-app-6865954
